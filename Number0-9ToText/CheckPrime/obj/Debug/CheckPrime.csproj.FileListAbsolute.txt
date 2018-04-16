@@ -1,0 +1,2 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\CheckPrime\bin\Debug\CheckPrime.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\CheckPrime\obj\Debug\CheckPrime.csprojResolveAssemblyReference.cache

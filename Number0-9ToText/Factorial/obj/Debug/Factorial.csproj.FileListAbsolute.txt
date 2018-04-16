@@ -1,0 +1,1 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Factorial\bin\Debug\Factorial.exe.config

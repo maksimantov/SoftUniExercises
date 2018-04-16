@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\bin\Debug\Numbers1toNwithStep3.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Numbers1toNwithStep3\obj\Debug\Numbers1toNwithStep3.pdb

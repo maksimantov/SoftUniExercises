@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\2DRectangleArea\bin\Debug\2DRectangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\2DRectangleArea\bin\Debug\2DRectangleArea.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\2DRectangleArea\obj\Debug\2DRectangleArea.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\2DRectangleArea\obj\Debug\2DRectangleArea.pdb

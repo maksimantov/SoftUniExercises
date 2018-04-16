@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PointInTheFigure\obj\Debug\PointInTheFigure.csprojResolveAssemblyReference.cache

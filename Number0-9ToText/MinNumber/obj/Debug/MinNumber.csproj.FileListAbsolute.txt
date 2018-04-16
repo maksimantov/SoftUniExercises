@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MinNumber\bin\Debug\MinNumber.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MinNumber\bin\Debug\MinNumber.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MinNumber\bin\Debug\MinNumber.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MinNumber\obj\Debug\MinNumber.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MinNumber\obj\Debug\MinNumber.pdb

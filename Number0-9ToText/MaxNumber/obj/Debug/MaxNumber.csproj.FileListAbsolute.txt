@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\MaxNumber\obj\Debug\MaxNumber.pdb

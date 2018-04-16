@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\SumNumbers\obj\Debug\SumNumbers.pdb

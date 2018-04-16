@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\bin\Debug\Java.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\bin\Debug\Java.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\bin\Debug\Java.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\obj\Debug\Java.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\obj\Debug\Java.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Java\obj\Debug\Java.pdb

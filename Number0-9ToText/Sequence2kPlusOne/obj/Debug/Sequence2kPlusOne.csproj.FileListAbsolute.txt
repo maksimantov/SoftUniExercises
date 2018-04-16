@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Sequence2kPlusOne\bin\Debug\Sequence2kPlusOne.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Sequence2kPlusOne\bin\Debug\Sequence2kPlusOne.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Sequence2kPlusOne\bin\Debug\Sequence2kPlusOne.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Sequence2kPlusOne\obj\Debug\Sequence2kPlusOne.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\Sequence2kPlusOne\obj\Debug\Sequence2kPlusOne.pdb

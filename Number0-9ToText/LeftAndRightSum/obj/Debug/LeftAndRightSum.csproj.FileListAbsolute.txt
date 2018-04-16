@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

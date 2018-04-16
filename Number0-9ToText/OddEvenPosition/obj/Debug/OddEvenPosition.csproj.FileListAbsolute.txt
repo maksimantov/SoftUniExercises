@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\obj\Debug\OddEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

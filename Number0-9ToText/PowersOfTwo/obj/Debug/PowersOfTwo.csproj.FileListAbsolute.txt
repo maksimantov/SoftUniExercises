@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

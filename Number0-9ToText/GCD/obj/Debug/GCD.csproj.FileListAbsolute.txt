@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\bin\Debug\GCD.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\bin\Debug\GCD.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\bin\Debug\GCD.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\obj\Debug\GCD.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\GCD\obj\Debug\GCD.pdb

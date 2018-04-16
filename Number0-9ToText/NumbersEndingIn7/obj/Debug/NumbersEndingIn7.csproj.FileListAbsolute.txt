@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.pdb

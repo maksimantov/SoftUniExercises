@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\bin\Debug\Number0-9ToText.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\bin\Debug\Number0-9ToText.exe
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\bin\Debug\Number0-9ToText.pdb
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\obj\Debug\Number0-9ToText.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\obj\Debug\Number0-9ToText.exe
+c:\users\user\documents\visual studio 2015\Projects\Number0-9ToText\Number0-9ToText\obj\Debug\Number0-9ToText.pdb

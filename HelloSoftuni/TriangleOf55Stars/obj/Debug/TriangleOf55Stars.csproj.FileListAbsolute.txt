@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csprojResolveAssemblyReference.cache

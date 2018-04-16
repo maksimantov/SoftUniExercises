@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb

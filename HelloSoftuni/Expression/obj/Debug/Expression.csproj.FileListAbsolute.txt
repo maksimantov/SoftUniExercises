@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\bin\Debug\Expression.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\bin\Debug\Expression.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\bin\Debug\Expression.pdb
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\obj\Debug\Expression.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Expression\obj\Debug\Expression.pdb

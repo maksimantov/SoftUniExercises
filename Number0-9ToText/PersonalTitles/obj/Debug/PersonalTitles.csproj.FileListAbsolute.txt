@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\bin\Debug\PersonalTitles.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\bin\Debug\PersonalTitles.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\obj\Debug\PersonalTitles.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\PersonalTitles\obj\Debug\PersonalTitles.pdb

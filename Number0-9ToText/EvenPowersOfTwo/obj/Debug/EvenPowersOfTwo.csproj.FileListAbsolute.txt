@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\EvenPowersOfTwo\bin\Debug\EvenPowersOfTwo.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\EvenPowersOfTwo\obj\Debug\EvenPowersOfTwo.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Inches to centimeters\bin\Debug\Inches to centimeters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Inches to centimeters\bin\Debug\Inches to centimeters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Inches to centimeters\bin\Debug\Inches to centimeters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Inches to centimeters\obj\Debug\Inches to centimeters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Inches to centimeters\obj\Debug\Inches to centimeters.pdb

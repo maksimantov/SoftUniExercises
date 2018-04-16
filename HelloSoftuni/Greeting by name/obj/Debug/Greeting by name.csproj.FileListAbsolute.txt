@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Greeting by name\bin\Debug\Greeting by name.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Greeting by name\bin\Debug\Greeting by name.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Greeting by name\bin\Debug\Greeting by name.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Greeting by name\obj\Debug\Greeting by name.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Greeting by name\obj\Debug\Greeting by name.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\bin\Debug\EqualPairs.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\bin\Debug\EqualPairs.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\bin\Debug\EqualPairs.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\obj\Debug\EqualPairs.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\EqualPairs\obj\Debug\EqualPairs.pdb

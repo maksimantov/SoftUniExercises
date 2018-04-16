@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Numbers 1-20\bin\Debug\Numbers 1-20.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Numbers 1-20\bin\Debug\Numbers 1-20.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Numbers 1-20\bin\Debug\Numbers 1-20.pdb
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Numbers 1-20\obj\Debug\Numbers 1-20.exe
+C:\Users\User\documents\visual studio 2015\Projects\HelloSoftuni\Numbers 1-20\obj\Debug\Numbers 1-20.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Square_Of_Stars\bin\Debug\Square_Of_Stars.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Square_Of_Stars\bin\Debug\Square_Of_Stars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Square_Of_Stars\bin\Debug\Square_Of_Stars.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Square_Of_Stars\obj\Debug\Square_Of_Stars.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\Square_Of_Stars\obj\Debug\Square_Of_Stars.pdb

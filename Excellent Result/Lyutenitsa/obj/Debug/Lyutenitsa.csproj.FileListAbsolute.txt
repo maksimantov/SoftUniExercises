@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\bin\Debug\Lyutenitsa.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\bin\Debug\Lyutenitsa.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\bin\Debug\Lyutenitsa.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\obj\Debug\Lyutenitsa.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\obj\Debug\Lyutenitsa.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Excellent Result\Lyutenitsa\obj\Debug\Lyutenitsa.csprojResolveAssemblyReference.cache

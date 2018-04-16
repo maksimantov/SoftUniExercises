@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\VowelsSum\bin\Debug\VowelsSum.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\VowelsSum\bin\Debug\VowelsSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\VowelsSum\bin\Debug\VowelsSum.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\VowelsSum\obj\Debug\VowelsSum.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\VowelsSum\obj\Debug\VowelsSum.pdb

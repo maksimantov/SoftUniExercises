@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\ChristmasTree\obj\Debug\ChristmasTree.pdb

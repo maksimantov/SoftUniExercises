@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\User\documents\visual studio 2015\Projects\Number0-9ToText\BonusScore\obj\Debug\BonusScore.pdb

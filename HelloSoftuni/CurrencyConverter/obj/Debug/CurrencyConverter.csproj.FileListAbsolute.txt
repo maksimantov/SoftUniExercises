@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\HelloSoftuni\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

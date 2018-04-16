@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\bin\Debug\HelloSoftuni.pdb
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloSoftuni\HelloSoftuni\obj\Debug\HelloSoftuni.pdb

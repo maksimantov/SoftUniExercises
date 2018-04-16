@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\RectangleNxN\bin\Debug\RectangleNxN.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\RectangleNxN\bin\Debug\RectangleNxN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\RectangleNxN\bin\Debug\RectangleNxN.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\RectangleNxN\obj\Debug\RectangleNxN.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Number0-9ToText\RectangleNxN\obj\Debug\RectangleNxN.pdb
